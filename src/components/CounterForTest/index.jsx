@@ -23,7 +23,7 @@ const CounterForTest = () => {
         <>
           <SettingsBlock icon="alert">Notifications</SettingsBlock>
           <SettingsBlock icon="dark" isBoolean={true}>
-            Dark Mode
+           hell aodihadofihd
           </SettingsBlock>
           <SettingsBlock icon="language">Language</SettingsBlock>
         </>
